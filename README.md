@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil Patani
-- 👀 I’m interested in Web Development, Machine learning and problem solving
-- 🌱 I’m currently learning Data Structures & Algorithms in C++
+- 👀 I’m interested in Web Development, Machine learning and problem solving.
+- 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me on [LinkedIn](linkedin.com/in/sahil-patani-2721231b8) or [Twitter](https://twitter.com/SahilPatani2)
 
